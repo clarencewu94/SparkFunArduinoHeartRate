@@ -20,7 +20,7 @@ Once that is done, time to download the libraries.
 1. Launch the Arduino IDE, select File and then Preferences, then the Preference Dialog and add the following link to the Additional Boards Manager URLS Field:
 https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
 
-![PreferencePAge](Screenshots/PreferencePage.jpg)
+![PreferencePage](Screenshot/PreferencePage.jpg)
 
 Go to Manage Libraries Tab and search for the library:
 STM32duino Examples (at this time version 1.0.4) Install and the system should be able to run with STM boards.
@@ -28,7 +28,7 @@ STM32duino Examples (at this time version 1.0.4) Install and the system should b
 
 For Manual libraries required (SPARKFUN Library cpp and H files), Simply Zip them up in a file. 
 Go to Sketch, Include Library, Add a .ZIP and select the Zip file. 
-![BoardLib](Screenshots/BoardLib.jpg)
+![BoardLib](Screenshot/BoardLib.jpg)
 
 In tools, adjust the board, Upload Method and the Port. 
 
