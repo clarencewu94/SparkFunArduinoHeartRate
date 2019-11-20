@@ -25,6 +25,8 @@ https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_ind
 Go to Manage Libraries Tab and search for the library:
 STM32duino Examples (at this time version 1.0.4) Install and the system should be able to run with STM boards.
 
+You will also need this github as a Library to enable ble functionalities:
+https://github.com/stm32duino/STM32duinoBLE
 
 For Manual libraries required (SPARKFUN Library cpp and H files), Simply Zip them up in a file. 
 Go to Sketch, Include Library, Add a .ZIP and select the Zip file. 
