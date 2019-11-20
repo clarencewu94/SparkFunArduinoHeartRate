@@ -13,8 +13,9 @@ or through their github:
 As this the Mbed libraries are currently being made and in progress, for now use the Arduino IDE with the indicated libraries.
 The Libraries are too large and so there are two options to use in this project. 
 
-Click on the Arduino IDE once Downloaded and open the Example1_config_BPM_MODE but change the extension to ino file. 
-If needed the file is also included here as well. 
+Click on the Arduino IDE once Downloaded and open the HeartRateBLE.ino file.
+The normal Example1_config_BPM_MODE is also included as well if you wish to modify it. 
+If needed the file is also included here in this github.. 
 
 Once that is done, time to download the libraries. 
 1. Launch the Arduino IDE, select File and then Preferences, then the Preference Dialog and add the following link to the Additional Boards Manager URLS Field:
